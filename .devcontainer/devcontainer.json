@@ -3,7 +3,7 @@
 
   // PHP 8.4 on Debian bookworm. Laravel 13 supports PHP 8.3-8.5.
   // To move the whole module to a different PHP version, change this ONE line.
-  "image": "mcr.microsoft.com/devcontainers/php:4-8.4-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/php:8.4-bookworm",
 
   "features": {
     "ghcr.io/devcontainers/features/node:2": {
